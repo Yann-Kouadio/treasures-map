@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasuresMap", "TreasuresMap\TreasuresMap.csproj", "{E08DDB21-B752-4853-BFDB-EE4671EA9AEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasuresMap.UnitTests", "TreasuresMap.UnitTests\TreasuresMap.UnitTests.csproj", "{D67B44F8-4C01-451A-971E-D287FEA63DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E08DDB21-B752-4853-BFDB-EE4671EA9AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08DDB21-B752-4853-BFDB-EE4671EA9AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08DDB21-B752-4853-BFDB-EE4671EA9AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08DDB21-B752-4853-BFDB-EE4671EA9AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67B44F8-4C01-451A-971E-D287FEA63DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67B44F8-4C01-451A-971E-D287FEA63DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67B44F8-4C01-451A-971E-D287FEA63DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67B44F8-4C01-451A-971E-D287FEA63DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
